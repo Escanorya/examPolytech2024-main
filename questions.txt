@@ -1,0 +1,21 @@
+16)
+
+Docker est un service qui permet de créer des conteneurs.
+Ces conteneurs permettent d'héberger un service afin de déployer librement et aisément le service sur un équipement.
+
+17)
+
+La CI (continue integration) vise à tester et push régulièrement le code afin de détecter plus facilement et rapidement les erreurs afin de les corriger.
+La CD (continue delivery) vise à automatiser les processus de déploiement d'un service dans un environnement quelconque pour réduire les délais entre la phase de développement et la mise en production.
+
+Elles sont utiles pour gagner du temps (détecter plus rapidement les erreurs, accélerer le processus de développement), améliorer l'efficacité du travail (collaboration plus simple) ou encore minimiser les risques liés au déploiement du code.
+
+18)
+
+Le cours est bien structuré avec suffisamment de pratique pour comprendre comment mettre en place des conteneurs Docker.
+Le but est bien expliqué aussi. L'animation est dynamique.
+
+19)
+
+Antoine a bien apprécié ce gif :)
+https://tenor.com/fr/view/the-rock-the-rock-eyebrows-the-wok-asian-the-rock-gif-23893311
