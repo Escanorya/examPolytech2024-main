@@ -1,0 +1,9 @@
+FROM eclipse-temurin:8-jre
+
+WORKDIR /app
+
+COPY target/*.jar examPolytech2024.jar
+
+EXPOSE 8448
+
+LABEL maintainer="Raphael"
